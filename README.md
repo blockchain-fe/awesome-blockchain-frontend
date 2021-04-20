@@ -2,7 +2,7 @@
 
 A collection of awesome blockchain-related front-end libraries, resources and shiny things. ✨
 
-Maintained by [antchain-fe](https://www.yuque.com/antchain-fe) team.
+Maintained by [antchain-fe](https://www.yuque.com/antchain-fe/blog/joinus) team.
 
 ---
 
@@ -36,4 +36,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [antchain-fe](https://www.yuque.com/antchain-fe) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [antchain-fe](https://www.yuque.com/antchain-fe/blog/joinus) has waived all copyright and related or neighboring rights to this work.
