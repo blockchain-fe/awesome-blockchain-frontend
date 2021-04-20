@@ -1,6 +1,6 @@
-# Awesome Blockchain FE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Blockchain Frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome blockchain-related front-end libraries, resources and shiny things. ✨
+A collection of awesome blockchain-related frontend libraries, resources and shiny things. ✨
 
 Maintained by [antchain-fe](https://www.yuque.com/antchain-fe/blog/joinus) team.
 
