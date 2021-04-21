@@ -1,4 +1,4 @@
-<!-- Thank you for your interest in Awesome JavaScript 🎉 -->
+<!-- Thank you for your interest in Awesome Blockchain Frontend 🎉 -->
 
 <!-- These comment lines are only here to guide you, and will not be visible in the pull request you're about to create. -->
 

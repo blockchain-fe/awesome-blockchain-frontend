@@ -4,21 +4,20 @@ A collection of awesome blockchain-related frontend libraries, resources and shi
 
 Maintained by [antchain-fe](https://www.yuque.com/antchain-fe/blog/joinus) team.
 
----
-
 ## Language
 
-- [Solidity](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+- [Solidity](https://docs.soliditylang.org/) - An object-oriented, high-level language for implementing smart contracts.
 - [AssemblyScript](https://www.assemblyscript.org/) - Being a variant of TypeScript makes it easy to compile to WebAssembly without learning a new language.
 
-## Framework
+## Scaffold
 
+- [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Everything you need to get started building decentralized applications powered by Ethereum.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
 ## JSSDK
 
-- [Web3](https://web3js.readthedocs.io/) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
-- [Ethers](https://docs.ethers.io/) - A complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
+- [web3.js](https://web3js.readthedocs.io/) - A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+- [ethers.js](https://docs.ethers.io/) - A complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
 
 ## Wallet
 
@@ -30,7 +29,9 @@ Maintained by [antchain-fe](https://www.yuque.com/antchain-fe/blog/joinus) team.
 
 # Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome!
+
+Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 # License
 
